@@ -1,7 +1,7 @@
 <h1 align="center">Crypto Tracker</h1>
 
 <hr />
-![Website Link] ()
+![Website Link] (https://cryptocurrencytracking.netlify.app/)
 <hr />
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 <hr />
 
-<p align="center">This is a responsive website for cryptocurrency tracking built with ReactJS, currently tracking 100 different cryptocurrencies.</p>
+<p align="left">This is a responsive website for cryptocurrency tracking built with ReactJS, currently tracking 100 different cryptocurrencies.</p>
 
 ## 💡Features
 
