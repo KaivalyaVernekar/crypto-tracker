@@ -1,7 +1,7 @@
 <h1 align="center">Crypto Tracker</h1>
 
 <hr />
-[Website Link:](https://cryptocurrencytracking.netlify.app/)
+ <a href="https://cryptocurrencytracking.netlify.app/" target="_blank">View Project</a>
 <hr />
 <div align="center">
 
